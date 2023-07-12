@@ -1,0 +1,11 @@
+transformers
+checklist
+num2words
+word2number
+SoundsLike
+dateparser
+ftfy
+sacrebleu
+datasets
+sentence_transformers
+sacremoses
